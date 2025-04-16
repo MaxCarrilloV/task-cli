@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": "bea8e2a7-29e1-49fb-b057-65fe0a51a30d",
+      "description": "hola",
+      "status": "todo",
+      "createdAt": "2025-04-16T03:55:48.065Z",
+      "updatedAt": null
+    },
+    {
+      "id": "0a9cd47e-3618-42f0-95c4-4d4ff48327ee",
+      "description": "tarea done",
+      "status": "todo",
+      "createdAt": "2025-04-16T23:34:54.460Z",
+      "updatedAt": "2025-04-16T23:38:10.264Z"
+    }
+  ]
+}
